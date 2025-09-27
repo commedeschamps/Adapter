@@ -9,3 +9,4 @@ public class CashPayment implements PaymentSystem {
         System.out.println("Cash payment: Payment of " + amount + " tenge completed");
     }
 }
+
